@@ -1,0 +1,36 @@
+_repo: Floresta-de-varios-romances_34155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Teófilo Fernandes
+    - Braga, Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+description: ''
+gutenberg_issued: '2010-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34155'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Ballads, Spanish'
+- !lcsh 'Folk songs, Portuguese'
+- !lcsh 'Ballads, Portuguese'
+title: Floresta de varios romances
+url: http://www.gutenberg.org/ebooks/34155
