@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Teófilo_Braga
     - http://en.wikipedia.org/wiki/Teófilo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34155#Floresta-de-varios-romances
 gutenberg_issued: '2010-10-28'
 gutenberg_type: Text
 identifiers:
